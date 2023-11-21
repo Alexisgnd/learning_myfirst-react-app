@@ -1,4 +1,4 @@
-import Banner from './banner'
+import Banner from './Banner'
 import Cart from './Cart'
 
 function App() {
